@@ -79,7 +79,7 @@ intrusense/
 │
 ├── docs/                       # Documentation
 │   ├── ARCHITECTURE.md
-│   └── PRESENTATION_SPEECH.md
+│   
 │
 └── docker-compose.yml          # One-command deployment
 ```
